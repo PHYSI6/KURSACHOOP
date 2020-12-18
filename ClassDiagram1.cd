@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Administration" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAQAAAAAAAAAAAAAAAAAAAAIAgAAAQEAAAQAgAAEAA=</HashCode>
+      <FileName>KURSACHOOP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserFunc" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAIABAAAAAAAgAQAAAAAAIACQAAAAAgAKADAQ=</HashCode>
+      <FileName>KURSACHOOP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminFunc" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <InheritanceLine Type="Administration">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.16" Y="0.052" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQACAAAAAAAAAA=</HashCode>
+      <FileName>KURSACHOOP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAACAIABQAAAAAAggwAAAgAgIAAQEAAASgIKADAQ=</HashCode>
+      <FileName>KURSACHOOP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAQAAAAgAAAQEAAAQAAAAAAA=</HashCode>
+      <FileName>KURSACHOOP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FunRadioDetails" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAAACAAAAgAAAAKAABAAAQIAEACAEAAAAAEAoAFgQ=</HashCode>
+      <FileName>KURSACHOOP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RadioDetails" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAgAAgCAAAAAAAAAAUAAAAAAAAAAAAFgQ=</HashCode>
+      <FileName>KURSACHOOP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Provider" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAABAAAQAAAACBAAAAAAEAJEEAA=</HashCode>
+      <FileName>KURSACHOOP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Characteristics" Collapsed="true">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAICAAAAgAAAAKAAgAAAAIAEBAAEAAAEAAAgAAAA=</HashCode>
+      <FileName>KURSACHOOP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
